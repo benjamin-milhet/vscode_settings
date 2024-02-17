@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Darcula",
+    "workbench.colorCustomizations": {
+        "[Darcula]": {
+            "editor.background": "#1e1f21",
+            "sideBar.background": "#1e1f21",
+            "activityBar.background": "#1e1f21",
+            "panel.background": "#1e1f21",
+            "statusBar.background": "#2b2d30",
+            "titleBar.activeBackground": "#1e1f21",
+            "tab.activeBackground": "#1e1f21",
+            "tab.inactiveBackground": "#2b2d30",
+            "tab.border": "#2b2d30",
+            "tab.activeBorder": "#007acc"
+        }
+    },
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 22,
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true
+}
